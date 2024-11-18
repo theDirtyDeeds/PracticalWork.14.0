@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalWork 14.0", "PracticalWork 14.0.csproj", "{A5F4DDC6-18E4-49CF-8D8C-1AE6FAD8FDFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankSystemExceptions", "..\BankSystemExceptions\BankSystemExceptions.csproj", "{CAFEE4FB-74AD-478C-99D0-F72A21A07865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5F4DDC6-18E4-49CF-8D8C-1AE6FAD8FDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F4DDC6-18E4-49CF-8D8C-1AE6FAD8FDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F4DDC6-18E4-49CF-8D8C-1AE6FAD8FDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F4DDC6-18E4-49CF-8D8C-1AE6FAD8FDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFEE4FB-74AD-478C-99D0-F72A21A07865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFEE4FB-74AD-478C-99D0-F72A21A07865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFEE4FB-74AD-478C-99D0-F72A21A07865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFEE4FB-74AD-478C-99D0-F72A21A07865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFA4D7D5-DC06-4365-82DF-88C0428CE226}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PracticalWork 14.0/1.0.0": {
+        "dependencies": {
+          "BankSystemExceptions": "1.0.0"
+        },
+        "runtime": {
+          "PracticalWork 14.0.dll": {}
+        }
+      },
+      "BankSystemExceptions/1.0.0": {
+        "runtime": {
+          "BankSystemExceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticalWork 14.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankSystemExceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
